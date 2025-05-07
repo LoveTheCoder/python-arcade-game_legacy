@@ -1,2 +1,3 @@
 # python-arcade-game
-All software for my high school project
+This is the legacy-version of my highschool project.
+This version is made to run on a computer.
